@@ -1,2 +1,2 @@
 # ChatGtp_Jailbreak
-Jast download the. txt file and past on chatgtp 2 time
+Jast download the PDF and past text on chatgtp 2 time
